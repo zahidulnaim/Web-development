@@ -1,0 +1,39 @@
+.header{
+	background-color: blue;
+	padding: 30px;
+
+}
+.header h1{ text-align: center; }
+.contener{ width: 100%;
+	float: left;
+}
+.sidebar{width: 20%;
+float: left;
+background-color: red;
+height: 400px;}
+.body{ width: 70%; 
+float: left;
+background-color: orange;
+height: 400px;
+padding-left: 10%;}
+ul {
+	list-style-type: none;
+}
+.footer{background-color: blue;
+text-align: center;
+width: 90%;
+float: left;
+padding: 5%;
+}
+.menu{
+	list-style-type: none;
+	float: right;
+
+}
+.logo{width: 200px;}
+.menu li a{
+ padding-left: 10px;
+ padding-right: 10px;
+}
+.menu li {display: inline;
+}
