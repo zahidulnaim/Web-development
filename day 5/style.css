@@ -1,0 +1,14 @@
+.bg-image{
+	width: 80%;
+	height: 500px;
+	margin: 0 auto;
+	border: 10px solid;
+	border-color: darkred;
+	border-radius: 5px;
+	
+	
+	background: hotpink url(./image/hack.png) no-repeat  center center ;
+
+}
+
+
