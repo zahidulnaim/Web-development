@@ -1,0 +1,51 @@
+.header{
+    background-color: #006666;
+    margin-top: 10px;
+}
+.header a{
+    text-decoration: none;
+    color:white;
+    margin: 0 auto;
+    
+}
+.nav-search{
+    padding-top: 10px;
+}
+.nav-txt{
+    padding-top: 10px;
+
+}
+.banner{
+  margin-left: 100px;
+}
+.banner img{
+    position: absolute;
+
+}
+.header a .text-end{
+    margin: 10px;
+}
+.banner a{
+    font-size: 9px;
+}
+.topmenu ul li  {
+    position: relative;
+    z-index: 1;
+margin-top: 170px;
+   height: 30px;
+   float: right;
+   background-color:white;
+   left: 52px;
+}
+.slider{
+    margin-top: 10px;
+}
+.card-1{
+    margin-top: 10px;
+    
+}
+.card-1 img{
+    height: 120px;
+    width: 120px;
+    display: flex;
+}
